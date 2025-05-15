@@ -1,4 +1,4 @@
 # github-workflowmac
 Test on mac
-To improve is to change.
-making more changes
+All that you change, changes you.
+
